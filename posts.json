@@ -1,0 +1,36 @@
+
+[
+    {
+        "id": 1,
+        "titulo": "Aprendiendo Python",
+        "contenido": "Estoy dando mis primeros pasos en Python.",
+        "autor": {
+            "nombre": "Mayra",
+            "bio": "Estudiante de análisis de datos"
+        },
+        "tags": ["Python", "Programación"],
+        "estado": "Publicado"
+    },
+    {
+        "id": 2,
+        "titulo": "Introducción al análisis de datos",
+        "contenido": "Aprendiendo a trabajar con datos.",
+        "autor": {
+            "nombre": "Mayra",
+            "bio": "Estudiante de análisis de datos"
+        },
+        "tags": ["Datos", "Tecnología"],
+        "estado": "Borrador"
+    },
+    {
+        "id": 3,
+        "titulo": "Mi primer proyecto",
+        "contenido": "",
+        "autor": {
+            "nombre": "Mayra",
+            "bio": "Estudiante de análisis de datos"
+        },
+        "tags": ["Python"],
+        "estado": "Publicado"
+    }
+]
